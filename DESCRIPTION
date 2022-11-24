@@ -1,0 +1,14 @@
+Package: calculator
+Type: Package
+Title: Frequently used calculator function
+Version: 0.0.1
+Authors@R: person("Aman", "Kumar", "Tiwary", email = "h20220823@pilani.bits-pilani.ac.in", role = c("aut", "cre"))
+Description: This package provides functions to perform operation such as mode identification, standardization & normalization on R vectors
+Depends: R (>= 3.1.0)
+License: GNU General Public License v3.0
+RoxygenNote: 7.2.1
+Encoding: UTF-8
+NeedsCompilation: no
+Packaged: 2022-11-24 17:30:52 UTC; titaniumspy
+Author: Aman Tiwary Kumar [aut, cre]
+Maintainer: Aman Tiwary Kumar <h20220823@pilani.bits-pilani.ac.in>
